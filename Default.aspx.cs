@@ -15,7 +15,9 @@ public partial class _Default : Page
 
         x = 500;
         y = 600;
-        Console.WriteLine(z);
+
+        int i = 99;
+        z = z + i;
 
     }
 }
