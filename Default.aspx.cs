@@ -9,6 +9,8 @@ public partial class _Default : Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-
+        int x = 1;
+        int y = 2;
+        int z = x + y;
     }
 }
