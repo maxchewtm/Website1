@@ -2,12 +2,12 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>Your contact page.</h3>
+    <h3>This is a dummy contact</h3>
     <address>
-        One Microsoft Way<br />
-        Redmond, WA 98052-6399<br />
+        Mid Valley<br />
+        Kuala Lumpur<br />
         <abbr title="Phone">P:</abbr>
-        425.555.0100
+        123456
     </address>
 
     <address>
